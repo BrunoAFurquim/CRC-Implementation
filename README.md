@@ -134,18 +134,9 @@ O CRC-32 pode detectar:
 
 - **Linguagem**: Python 3.x
 - **Dependências**: Nenhuma (apenas biblioteca padrão)
-- **Compatibilidade**: Windows, macOS, Linux
 
 ## 📖 Referências
 
 - [Ethernet Frame Format](https://en.wikipedia.org/wiki/Ethernet_frame)
 - [CRC Polynomial](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
 - [IEEE 802.3 Standard](https://standards.ieee.org/ieee/802.3/6935/)
-
-## 👨‍💻 Autor
-
-Implementação educacional de CRC-32 para redes Ethernet.
-
-## 📄 Licença
-
-Aberto para fins educacionais e comerciais.
